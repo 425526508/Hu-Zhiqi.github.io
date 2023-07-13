@@ -1,4 +1,4 @@
-# 胡志奇的个人网站
+# Hu Zhiqi‘s website
 
 <https://yang-xijie.github.io>
 

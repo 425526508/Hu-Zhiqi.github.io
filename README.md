@@ -1,6 +1,6 @@
 # Hu Zhiqi‘s website
 
-<https://yang-xijie.github.io>
+<https://Hu-Zhiqi.github.io>
 
 - 生成 [MkDocs](https://www.mkdocs.org) 
 - 主题 [Material](https://github.com/squidfunk/mkdocs-material)
